@@ -1,0 +1,33 @@
+html{
+}
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(pizza.gif);
+  position: absolute;
+  top: 32%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Chango', cursive;
+}
+.jumbotron{
+  background: transparent;
+}
+img{
+  height: 200px;
+}
+.hide{
+  display: none;
+}
+h1, .title{
+  font-family: 'Chango', cursive;
+  color: rgb(219, 84, 22) !important;
+}
+.btn.btn-default, button{
+  background: rgb(219, 84, 22) !important;
+  /* border-radius: 20px !important; */
+  color: black !important;
+}
+ul{
+  list-style: none !important;
+}
